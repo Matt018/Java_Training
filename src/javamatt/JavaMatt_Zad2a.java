@@ -42,10 +42,11 @@ public class JavaMatt_Zad2a {
     }
     public static void main(String[] args) 
     {
-        String str1 = "abaaiojicdfg";
+        String str1 = "abaalkj";
         String str2 = "abaalkjk";
         System.out.println(str1.compareTo(str2)); //metoda wbudowana
         System.out.println(compareTo(str1,str2)); //własna metoda
+        System.out.println(str1.equals(str2));
     }
 }
     

@@ -59,7 +59,7 @@ public class JavaMatt_Zad5_Lab2{
             for(int j=0;j<tabA[i].length;j++){
                 if (j==5&tabA[i][j]==summax)
                 System.out.printf("  Największa suma:%3d",tabA[i][j]);
-                else if (j==5&tabA[i][j]!=summax)
+                else if (j==5)
                 System.out.printf("  Suma:%3d",tabA[i][j]);
                 else
                 System.out.printf("%3d",tabA[i][j]);

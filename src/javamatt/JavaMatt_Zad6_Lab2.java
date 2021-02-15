@@ -19,8 +19,6 @@ public class JavaMatt_Zad6_Lab2{
     
     public static void main(String[] args) 
     {
-        int min, max ;
-        
         int [][] arrayA = {
             {-1,4,5,9},
             {7,20,-50},

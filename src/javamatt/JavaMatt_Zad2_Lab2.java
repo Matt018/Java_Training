@@ -37,7 +37,7 @@ public class JavaMatt_Zad2_Lab2{
             if (j==number)
                 count++;
         }
-        System.out.printf("Ilość wystąpień cyfry %d to %d",number, count);
+        System.out.printf("Ilość wystąpień cyfry %d to \n%d",number, count);
         System.out.println();
                 
         
